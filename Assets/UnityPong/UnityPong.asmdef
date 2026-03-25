@@ -1,0 +1,42 @@
+{
+    "name": "UnityPong",
+    "rootNamespace": "UnityPong",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:a1fb4488d886b0d48a3e938580dd8241",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Extensions.DependencyInjection.dll",
+        "DependencyContainer.dll",
+        "Ball.dll",
+        "BallInteractor.dll",
+        "BallController.dll",
+        "BallPresenter.dll",
+        "Match.dll",
+        "MatchInteractor.dll",
+        "MatchController.dll",
+        "MatchPresenter.dll",
+        "Paddles.dll",
+        "PaddlesInteractor.dll",
+        "PaddlesController.dll",
+        "PaddlePresenter.dll",
+        "Players.dll",
+        "PlayersInteractor.dll",
+        "PlayersController.dll",
+        "PlayerPresenter.dll",
+        "Stage.dll",
+        "StageInteractor.dll",
+        "StageController.dll",
+        "StagePresenter.dll",
+        "TickService.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

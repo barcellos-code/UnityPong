@@ -1,2 +1,4 @@
 ﻿<Solution>
+  <Project Path="UnityPong.csproj" />
+  <Project Path="UnityPongInput.csproj" />
 </Solution>
